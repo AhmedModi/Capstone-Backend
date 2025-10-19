@@ -63,7 +63,7 @@ Capstone-Backend/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/<your-username>/Capstone-Backend.git
+git clone https://github.com/<your-username>/Capstone-Backend.git](https://github.com/AhmedModi/Capstone-Backend.git
 cd Capstone-Backend
 ````
 
